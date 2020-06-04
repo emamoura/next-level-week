@@ -1,0 +1,23 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Next Level Week - Rocketseat",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emamoura/next-level-week.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emamoura/next-level-week/issues"
+  },
+  "homepage": "https://github.com/emamoura/next-level-week#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
